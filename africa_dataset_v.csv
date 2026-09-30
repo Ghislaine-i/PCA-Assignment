@@ -1,0 +1,26 @@
+country,region,income_group,population,gdp_per_capita_usd,life_expectancy,literacy_rate_pct
+Nigeria,West Africa,Lower middle income,223800000,807,54.63,62.0
+Ethiopia,East Africa,,111652998,1011,67.6,51.8
+Egypt,North Africa,Lower middle income,108613296,3339,71.81,71.2
+DR Congo,Central Africa,Low income,116452162,647,62.07,77.0
+South Africa,Southern Africa,Upper middle income,63522380,6253,66.31,95.0
+Tanzania,East Africa,Lower middle income,70038850,1185,67.21,77.9
+Kenya,East Africa,Lower middle income,54227015,,63.83,81.5
+Uganda,East Africa,Low income,45905417,1072,68.49,76.5
+Algeria,North Africa,Upper middle income,47400000,,76.47,81.4
+Sudan,North Africa,Low income,53282719,989,66.52,60.7
+Morocco,North Africa,Lower middle income,37254695,3993,75.49,73.8
+Ghana,West Africa,Lower middle income,34378768,2405,65.69,79.0
+Mozambique,Southern Africa,Low income,34958973,647,63.8,60.7
+Angola,Southern Africa,Lower middle income,38778554,2122,64.81,71.1
+Ivory Coast,West Africa,Lower middle income,33293101,2710,62.11,89.9
+Cameroon,Central Africa,Lower middle income,29442327,1762,63.97,77.1
+Niger,West Africa,Low income,27522750,723,61.43,35.1
+Mali,West Africa,Low income,23929000,1086,60.67,35.5
+Burkina Faso,West Africa,Low income,24736828,987,61.29,39.3
+Zambia,Southern Africa,Lower middle income,23003214,1235,,86.7
+Senegal,West Africa,Lower middle income,19575061,,68.92,51.9
+Zimbabwe,Southern Africa,Lower middle income,,2656,63.06,86.5
+Rwanda,East Africa,Low income,14418145,1000,68.02,73.2
+Tunisia,North Africa,Lower middle income,11992843,4350,76.71,81.8
+Benin,West Africa,Lower middle income,13551992,1485,60.96,
